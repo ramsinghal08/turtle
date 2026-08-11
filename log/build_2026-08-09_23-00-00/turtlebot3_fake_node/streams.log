@@ -1,0 +1,69 @@
+[0.284s] Invoking command in '/home/ram/MRT/turtle/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ram/MRT/turtle/install/turtlebot3_teleop:/home/ram/MRT/turtle/install/turtlebot3_slam_mrt:/home/ram/MRT/turtle/install/turtlebot3_example:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/ram/MRT/turtle/src/turtlebot3_simulations/turtlebot3_fake_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ram/MRT/turtle/install/turtlebot3_fake_node
+[0.351s] -- The C compiler identification is GNU 13.3.0
+[0.432s] -- The CXX compiler identification is GNU 13.3.0
+[0.455s] -- Detecting C compiler ABI info
+[0.580s] -- Detecting C compiler ABI info - done
+[0.606s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.607s] -- Detecting C compile features
+[0.607s] -- Detecting C compile features - done
+[0.621s] -- Detecting CXX compiler ABI info
+[0.769s] -- Detecting CXX compiler ABI info - done
+[0.780s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.781s] -- Detecting CXX compile features
+[0.781s] -- Detecting CXX compile features - done
+[0.787s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.014s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.123s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.212s] -- Found geometry_msgs: 5.3.8 (/opt/ros/jazzy/share/geometry_msgs/cmake)
+[1.303s] -- Found rosidl_generator_c: 4.6.9 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[1.329s] -- Found rosidl_generator_cpp: 4.6.9 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[1.361s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.394s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.465s] -- Found nav_msgs: 5.3.8 (/opt/ros/jazzy/share/nav_msgs/cmake)
+[1.519s] -- Found rclcpp: 28.1.21 (/opt/ros/jazzy/share/rclcpp/cmake)
+[1.595s] -- Found rmw_implementation_cmake: 7.3.3 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[1.601s] -- Found rmw_fastrtps_cpp: 8.4.4 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[1.752s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[1.780s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[1.814s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.919s] -- Found sensor_msgs: 5.3.8 (/opt/ros/jazzy/share/sensor_msgs/cmake)
+[1.950s] -- Found tf2: 0.36.21 (/opt/ros/jazzy/share/tf2/cmake)
+[1.959s] -- Found tf2_msgs: 0.36.21 (/opt/ros/jazzy/share/tf2_msgs/cmake)
+[2.035s] -- Found turtlebot3_msgs: 2.4.0 (/opt/ros/jazzy/share/turtlebot3_msgs/cmake)
+[2.181s] -- Configuring done (1.9s)
+[2.197s] -- Generating done (0.0s)
+[2.202s] -- Build files have been written to: /home/ram/MRT/turtle/build/turtlebot3_fake_node
+[2.214s] Invoked command in '/home/ram/MRT/turtle/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ram/MRT/turtle/install/turtlebot3_teleop:/home/ram/MRT/turtle/install/turtlebot3_slam_mrt:/home/ram/MRT/turtle/install/turtlebot3_example:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/ram/MRT/turtle/src/turtlebot3_simulations/turtlebot3_fake_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ram/MRT/turtle/install/turtlebot3_fake_node
+[2.216s] Invoking command in '/home/ram/MRT/turtle/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ram/MRT/turtle/install/turtlebot3_teleop:/home/ram/MRT/turtle/install/turtlebot3_slam_mrt:/home/ram/MRT/turtle/install/turtlebot3_example:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/ram/MRT/turtle/build/turtlebot3_fake_node -- -j12 -l12
+[2.277s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot3_fake_node.dir/src/turtlebot3_fake_node.cpp.o[0m
+[11.445s] [100%] [32m[1mLinking CXX executable turtlebot3_fake_node[0m
+[12.067s] [100%] Built target turtlebot3_fake_node
+[12.091s] Invoked command in '/home/ram/MRT/turtle/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ram/MRT/turtle/install/turtlebot3_teleop:/home/ram/MRT/turtle/install/turtlebot3_slam_mrt:/home/ram/MRT/turtle/install/turtlebot3_example:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/ram/MRT/turtle/build/turtlebot3_fake_node -- -j12 -l12
+[12.093s] Invoking command in '/home/ram/MRT/turtle/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ram/MRT/turtle/install/turtlebot3_teleop:/home/ram/MRT/turtle/install/turtlebot3_slam_mrt:/home/ram/MRT/turtle/install/turtlebot3_example:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/ram/MRT/turtle/build/turtlebot3_fake_node
+[12.103s] -- Install configuration: ""
+[12.104s] -- Execute custom install script
+[12.104s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node
+[12.123s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/rviz2.launch.py
+[12.133s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/turtlebot3_fake_node.launch.py
+[12.144s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/burger.yaml
+[12.155s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle.yaml
+[12.165s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle_pi.yaml
+[12.176s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/include//turtlebot3_fake_node/turtlebot3_fake_node.hpp
+[12.187s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_fake_node
+[12.198s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_fake_node
+[12.209s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.sh
+[12.228s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.dsv
+[12.239s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.sh
+[12.250s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.dsv
+[12.261s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.bash
+[12.273s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.sh
+[12.286s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.zsh
+[12.304s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.dsv
+[12.316s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.dsv
+[12.327s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/ament_index/resource_index/packages/turtlebot3_fake_node
+[12.338s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[12.349s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_dependencies-extras.cmake
+[12.360s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig.cmake
+[12.372s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig-version.cmake
+[12.383s] -- Symlinking: /home/ram/MRT/turtle/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.xml
+[12.396s] Invoked command in '/home/ram/MRT/turtle/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ram/MRT/turtle/install/turtlebot3_teleop:/home/ram/MRT/turtle/install/turtlebot3_slam_mrt:/home/ram/MRT/turtle/install/turtlebot3_example:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/ram/MRT/turtle/build/turtlebot3_fake_node
