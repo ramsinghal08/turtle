@@ -1,4 +1,0 @@
-[console_scripts]
-cmd_vel_relay = turtlebot3_slam_mrt.cmd_vel_relay:main
-covariance_relay = turtlebot3_slam_mrt.covariance_relay:main
-twist_to_stamped = turtlebot3_slam_mrt.twist_to_stamped:main

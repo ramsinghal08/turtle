@@ -1,1 +1,0 @@
-/home/ram/MRT/turtle/build/turtlebot3_slam_mrt/launch/nav2.launch.py

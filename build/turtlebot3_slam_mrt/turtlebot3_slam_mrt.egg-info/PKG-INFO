@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: turtlebot3-slam-mrt
-Version: 0.1.0
-Summary: SLAM + Nav2 + EKF pipeline for TurtleBot3, ported from slam_mrt
-Maintainer: apratim
-Maintainer-email: anand.apratim336@gmail.com
-License: Apache 2.0
-Provides-Extra: test
